@@ -1,7 +1,7 @@
 # DF ADS-B List Editor / Editor Liste ADS-B
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org)
-[![License](https://img.shields.io/github/license/djrexishere/df-adsb-list-editor.svg)](LICENSE)
+
 
 ---
 
